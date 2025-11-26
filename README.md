@@ -1,6 +1,9 @@
 # SpiritBound  
 *A Top-Down Bullet Hell Adventure Developed in Unity*
 
+# Trailer
+*https://www.youtube.com/watch?v=Xlnk4CiSs4M
+
 ## About the Game
 **SpiritBound** is a top-down bullet hell game created as a semester project for the **Game Design program (Spring 2024)** at **Nordfyns Højskole**.  
 The game explores the **corruption of the højskole spirit**, taking place in a world inspired by the culture and atmosphere at Nordfyns Højskole.
